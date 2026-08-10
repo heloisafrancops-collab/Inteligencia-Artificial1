@@ -1,2 +1,8 @@
-# Inteligencia-Artificial1
-Atividades e notebooks desenvolvidos na disciplina de Inteligência Artificial.
+# Inteligência Artificial
+
+Repositório destinado às atividades desenvolvidas na disciplina de Inteligência Artificial.
+
+## Conteúdos
+
+- Exercícios de Python
+- Notebooks desenvolvidos durante a disciplina
